@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 import pickle
+import matplotlib.pyplot as plt
 
 # 1. Set up page configuration
 st.set_page_config(page_title="E-Commerce Delivery Delay Predictor", layout="centered")
